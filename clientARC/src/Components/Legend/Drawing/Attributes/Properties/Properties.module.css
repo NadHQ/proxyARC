@@ -1,0 +1,56 @@
+.property {
+    height: 40px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.property label {
+    align-self: center;
+    font-size: 12pt;
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.color {
+    align-self: center;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 3px;
+    background-color: white;
+    border-color: lightblue;
+}
+
+.number {
+    width: 122px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 3px;
+    background-color: white;
+    border-color: lightblue;
+
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 10pt;
+    text-align: center;
+    align-self: center;
+}
+
+.text {
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 10pt;
+    text-align: center;
+
+    align-self: center;
+    width: 122px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 3px;
+    background-color: white;
+    border-color: lightblue;
+}

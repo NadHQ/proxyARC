@@ -1,0 +1,14 @@
+.head {
+    background-color: #31456a;
+    grid-area: h;
+}
+
+.logo {
+    font-style: oblique;
+    font-size: 20pt;
+    font-weight: bold;
+    color: white;
+    margin-left: 30px;
+}
+
+

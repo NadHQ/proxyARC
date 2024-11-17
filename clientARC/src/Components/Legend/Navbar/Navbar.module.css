@@ -1,0 +1,21 @@
+.navigate {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+.item a:hover {
+    color: lightblue;
+}
+
+.item a:active {
+    color: cadetblue;
+}

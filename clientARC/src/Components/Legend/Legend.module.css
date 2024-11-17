@@ -1,0 +1,17 @@
+.legend {
+    grid-area: l;
+    background-color: #000040;
+}
+
+.drop {
+    color: white;
+    font-size: 10pt;
+    width: 200px;
+    height: 35px;
+}
+
+.item {
+    background-color: black;
+    color: white;
+    font-size: 10pt;
+}

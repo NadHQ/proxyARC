@@ -1,0 +1,32 @@
+.nonactive {
+    background-color: white;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: lightblue;
+    height: 40px;
+    width: 40px;
+    margin: 0 auto;
+    display: block;
+}
+
+.nonactive:hover {
+    background-color: lightblue;
+}
+
+.active {
+    background-color: cadetblue;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: lightblue;
+    height: 40px;
+    width: 40px;
+    margin: 0 auto;
+    display: block;
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+    max-width: 25px;
+    max-height: 25px;
+}

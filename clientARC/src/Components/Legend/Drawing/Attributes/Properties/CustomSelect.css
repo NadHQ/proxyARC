@@ -1,0 +1,60 @@
+.react-select-container {
+    display: inline-block;
+    height: 30px;
+}
+
+.react-select__control {
+    display: block;
+    width: 130px;
+}
+
+.react-select__value-container {
+
+}
+
+.react-select__value-container img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100px;
+}
+
+.react-select__value-container label {
+    max-width: 100px;
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 10pt;
+    text-align: center;
+    display: block;
+}
+
+.react-select__indicators {
+
+}
+
+.react-select__menu {
+
+}
+
+.react-select__menu-list {
+
+}
+
+.react-select__option {
+    height: 28px;
+}
+
+.react-select__option img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100px;
+}
+
+.react-select__option label {
+    color: black;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 10pt;
+    text-align: center;
+    display: block;
+}

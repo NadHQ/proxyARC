@@ -1,0 +1,27 @@
+.layers {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.layer img {
+    width: 25px;
+    filter: invert(100%);
+}
+
+.layer img:hover {
+    filter: invert(50%);
+}
+
+.layer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.layer label {
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 12pt;
+    margin-left: 10px;
+}
